@@ -1,0 +1,22 @@
+{
+    "strings": [
+        {
+            "wav": "pt1.wav",
+            "alabama": "nitok ibitokachon homankan haalolikha",
+            "english": "I heard somebody say a bear killed him.",
+            "speaker": 0
+        },
+        {
+            "wav": "pt2.wav",
+            "alabama": "sahmin ibitokachon sobaychikko?",
+            "english": "Do you not know why (a bear) killed him?",
+            "speaker": 0
+        },
+        {
+            "wav": "pt3.wav",
+            "alabama": "ah akko aatiachasobaykkobi",
+            "english": "Ah, I don't know why it killed him.",
+            "speaker": 1
+        }
+    ]  
+}
